@@ -2,6 +2,8 @@
 WIDTH = 600
 HEIGHT = 500
 
+
+№
 # Create the actors
 spacecraft = Actor('spacecraft')    # The spacecraft actor
 spacecraft.pos = WIDTH/2, HEIGHT/2  # The initial position of the spacecraft
